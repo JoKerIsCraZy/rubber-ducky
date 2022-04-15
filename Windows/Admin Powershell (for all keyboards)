@@ -1,0 +1,11 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 2000
+TAB
+DELAY 200
+TAB
+DELAY 200
+SPACE
